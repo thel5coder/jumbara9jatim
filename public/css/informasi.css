@@ -1,0 +1,32 @@
+.container-login{
+    margin-left: 12px;
+    margin-top: 10px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    width: 315px;
+}
+.container-statistik{
+    width: 200px;
+}
+.btn-login{
+    border-radius: 3rem !important;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    padding-top: .4rem !important;
+    width: 200px;
+}
+.text-stat{
+    padding-left: 8px;
+    border-radius: 5px 0px 0px 5px;
+    height: 38px;
+}
+.panel{
+    margin-bottom: 10px;
+}
+.div-info{
+    overflow: hidden;
+}
+.kotak{
+    width: 400px;
+}

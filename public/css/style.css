@@ -1,0 +1,138 @@
+.navbar{
+    box-shadow: 4px 2px 8px rgba(0, 0, 0, .2);
+}
+.navbar-default .navbar-nav>.active>a:after {
+    color: #b21f2d;
+    background-color: #b21f2d;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #b21f2d;
+    background-color: transparent;
+}
+.logo{
+    width: 60px !important;
+    height: 25px !important;
+}
+.login{
+    margin-top: 40px;
+}
+.judul{
+    border-bottom: 1px solid #b21f2d;
+}
+.carousel .carousel-item{
+    height: 355px !important;
+}
+.carousel-item img{
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 355px !important;
+}
+.btn-login{
+    border-radius: 3rem !important;
+    padding-right: 1.5rem !important;
+    padding-left: 1.5rem !important;
+    padding-top: .2rem !important;
+    width: 200px;
+}
+.informasi{
+    margin-top: 5px;
+}
+.col-info{
+    height: 150px;
+    padding-top: 4px;
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+}
+.card-info{
+    padding-top: 20px;
+    border: 0px !important;
+}
+.card-statistik{
+    border: 0px !important;
+    width: 190px;
+    text-align: center;
+    height: 4rem;
+    padding: 2px;
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+.card-download{
+    height: 84px;
+}
+.text-muted{
+    font-size: .8rem;
+}
+.support{
+    background-color: #f5f4f8;
+    height: 200px;
+}
+.support h5{
+    padding-left: 10px;
+}
+footer{
+    background-color: #BF1A2F;
+    height: 25px;
+}
+footer p{
+    font-size: .8rem;
+    color: white;
+    text-align: center;
+}
+@media (min-width: 992px) {
+    .logo{
+        width: 70px;
+    }
+    .login{
+        margin-top: 40px;
+    }
+    .konten{
+        margin-top: 65px;
+    }
+    .informasi{
+        margin-top: 5px;
+    }
+    .col-info{
+        height: 50px;
+        padding-top: 4px;
+        padding-left: 2px !important;
+        padding-right: 2px !important;
+    }
+    .card-info{
+        border: 0px !important;
+    }
+    .card-statistik{
+        border: 0px !important;
+        width: 190px;
+        text-align: center;
+        height: 4rem;
+        padding: 2px;
+        color: white;
+        margin-top: 1px;
+        margin-bottom: 1px;
+    }
+    .card-download{
+        height: 84px;
+    }
+    .text-muted{
+        font-size: .8rem;
+    }
+    .support{
+        background-color: #f5f4f8;
+        height: 120px;
+    }
+    .support h5{
+        padding-left: 10px;
+    }
+    footer{
+        background-color: #BF1A2F;
+        height: 25px;
+    }
+    footer p{
+        font-size: .8rem;
+        color: white;
+        text-align: center;
+    }
+}

@@ -1,0 +1,19 @@
+h3{
+    padding-top: 10px;
+}
+.card-statistik{
+    margin-left: 45px;
+}
+.img-info{
+    margin-bottom: 20px;
+    width: 700px;
+    height: 400px;
+    overflow: hidden;
+}
+.img-info img{
+    width: 100%;
+    max-width: 700px;
+    min-width: 150px;
+    max-height: 400px;
+    min-height: 50px;
+}
